@@ -1,1 +1,5 @@
-console.log(true);
+function test () {
+	console.log(true);
+}
+
+test();
