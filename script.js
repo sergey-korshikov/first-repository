@@ -1,3 +1,5 @@
-console.log(true);
-console.log(false);
-console.log(NaN);
+function test () {
+	console.log(true);
+}
+
+test();
